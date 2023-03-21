@@ -16,4 +16,4 @@ def qr_generator(text):
 
 
 url = input("Enter your url: ")
-generate_qrcode("https://www.wifiqrcode.com")
+generate_qrcode("https://www.qrcodegen.com")
